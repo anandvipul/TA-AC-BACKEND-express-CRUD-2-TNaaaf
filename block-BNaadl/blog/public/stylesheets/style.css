@@ -23,3 +23,12 @@ a {
   margin-bottom: 1rem;
   align-items: center;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-row {
+  display: flex;
+}
